@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UltraStream</string>
+    <string name="accessibility_service_description">Auto-accept screen capture permission prompt for UltraStream.</string>
+</resources>

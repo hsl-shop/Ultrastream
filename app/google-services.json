@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "444182566484",
+    "project_id": "ultrastrem-c4d06",
+    "storage_bucket": "ultrastrem-c4d06.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444182566484:android:1146347c87e6d4a3ae7fc1",
+        "android_client_info": {
+          "package_name": "com.ultrastream.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPqLf-SEWDmz4FlJcw20qql0TvxDF64Rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
